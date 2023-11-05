@@ -8,3 +8,5 @@ The dashboard includes a variety of visualizations that can be used to analyze s
 This is the interactive sales dashboard
 
 
+![image](https://github.com/Srieswari/Amazon-sales-data-dashboard-powerbi/assets/99708903/d26c170b-d959-435c-8f78-d17892037051)
+These are the top 10 products and cities with maximum profit and maximum sales
