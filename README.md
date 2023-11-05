@@ -5,7 +5,7 @@ The dashboard includes a variety of visualizations that can be used to analyze s
 
 
 ![image](https://github.com/Srieswari/Amazon-sales-data-dashboard-powerbi/assets/99708903/c6056d8c-0795-49ef-b5d2-bf6cf27417b3)
-This is the interactive sales dashboard.
+**This is the interactive sales dashboard.**
 
 Some of the key insights from this dashboard are:
 
@@ -35,6 +35,6 @@ Some of the key insights from this dashboard are:
 
 
 
-Overview of cities and products
+**Overview of cities and products**
 ![image](https://github.com/Srieswari/Amazon-sales-data-dashboard-powerbi/assets/99708903/d26c170b-d959-435c-8f78-d17892037051)
 These are the top 10 products and cities with maximum profit and maximum sales
